@@ -1,0 +1,11 @@
+# Raw data
+data/
+*.xlsx
+
+# Notebook / Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Saved model/cache files
+*.pkl
+*.joblib
