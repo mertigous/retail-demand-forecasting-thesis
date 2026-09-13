@@ -33,7 +33,8 @@ The primary metric is **RMSE**, with **MAE** and **sMAPE** reported as complemen
 This project uses the **Online Retail II** dataset:
 
 > Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository.  
-> DOI: `10.24432/C5CG6D`
+> DOI: https://doi.org/10.24432/C5CG6D  
+> Dataset page: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 The raw dataset is **not redistributed** in this repository.
 
